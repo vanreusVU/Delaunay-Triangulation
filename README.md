@@ -10,6 +10,8 @@ It is written with pure Python using pyGame to visualize the triangualtion. You 
 ## Delaunay Triangulation
 A Delaunay triangulation of a vertex set is a triangulation of the vertex set with the property that no vertex in the vertex set falls in the interior of the circumcircle (circle that passes through all three vertices) of any triangle in the triangulation.
 
+<img src="Example2.png" width="500">
+
 ## Connected Project
 
 I wrote this code as a part of my on-going [Procedural Map Generation](https://github.com/vanreusVU/Procedural-Map-Generation) project. 
